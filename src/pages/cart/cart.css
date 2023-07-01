@@ -20,10 +20,23 @@
     width: 100%;
     font-size: 30px;
 }
+.description p{
+    margin: 10px;
+}
 .countHandler input{
     width: 40px;
     text-align: center;
     font-weight: bolder;
+}
+.countHandler button{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(19, 19, 19);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    margin: 5px;
+    cursor: pointer;
 }
 .checkout button{
     width: 150px;
